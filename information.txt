@@ -1,2 +1,2 @@
-PUT YOU TOKEN HERE
-PUT YOUR CHANNEL NAME HERE
+token=your_oauth_token_here
+channel=your_channel_name_here
